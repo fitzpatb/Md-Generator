@@ -4,7 +4,7 @@ For this project I created a workable readme Generator. It populates the readme 
 
 Here is a video showing it working.
 
-![screen-gif](./working.gif);
+![screen-gif](./Develop./working.gif);
 
 
 I removed the utils folder and the markdownGenerator file as it was earier to just make a simple if statement in the index.js for the license population.
